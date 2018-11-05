@@ -108,6 +108,14 @@
       <artifactId>spring-boot-devtools</artifactId>
       <optional>true</optional>
     </dependency>
+
+      <dependency>
+          <groupId>org.eclipse.hudson.tools</groupId>
+          <artifactId>maven-hpi-plugin</artifactId>
+          <version>3.0.0-M1</version>
+      </dependency>
+
+
   </dependencies>
 
   <build>
